@@ -1,0 +1,13 @@
+{
+  "site": "https://kprverse.com/",
+  "mode": "entire",
+  "startedAt": "2026-09-23T10:34:21.342Z",
+  "completedAt": "2026-09-23T10:39:26.969Z",
+  "pagesDiscovered": 10,
+  "pagesDownloaded": 10,
+  "pagesSkipped": 0,
+  "assetsDownloaded": 337,
+  "assetsMissing": 5,
+  "bytes": 65193405,
+  "errors": 15
+}
